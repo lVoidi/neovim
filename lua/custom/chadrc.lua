@@ -19,7 +19,6 @@ M.options, M.ui, M.mappings, M.plugins = {}, {}, {}, {}
 --   theme = "nord"
 -- }
 
--- NvChad included plugin options & overrides
 M.plugins = {
    options = {
         lspconfig = {
